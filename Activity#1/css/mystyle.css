@@ -1,0 +1,93 @@
+/*global*/
+*{
+    padding: 0;
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: white;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+article{
+    border-bottom: 1px solid gray;
+    margin-bottom: 70px;
+}
+p{
+    line-height: 1;
+    color: #3a3a3a;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 200%;
+    display: inline-block;
+    background-color: white;
+    padding: 5px;
+}
+h2{
+    color: hsl(0, 0%, 10%);
+    text-align: center;
+    font-size: 200%;
+    margin: 30px;
+}
+h3{
+    margin: 15px 0 5px 0;
+}
+.Catalog{
+    margin: 50px 0 30px 0;
+}
+img{
+    max-width: 20%;
+    margin-left: 100px;
+}
+.site-header{
+    background-image: url(../img/NintendoDirect.jpg);
+    height: 550px;
+    background-size:cover; 
+}
+.site-header a{
+    padding: 15px;
+}
+main{
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.readMore{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px 0px;
+}
+.Onefooter{
+    padding: 15px;
+    text-align: center;
+    height: 100px;
+    background-color: black;
+}
+.Onefooter p{
+    font-size: 30px;
+    color: white;
+}
+.Onefooter a{
+    color: white;
+    font-size: 15px;
+}
+.navigation a{
+    text-align: center;
+    color: white;
+    height: 100px;
+    padding: 15px;
+}
+.LastP{
+    margin-bottom: 40px;
+}
+.BuyGames img{
+    max-width: 20%;
+    align-content: center;
+    margin-left: 250px;
+}
